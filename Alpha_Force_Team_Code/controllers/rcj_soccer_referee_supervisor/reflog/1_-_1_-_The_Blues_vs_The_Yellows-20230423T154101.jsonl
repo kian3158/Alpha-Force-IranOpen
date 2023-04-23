@@ -1,6 +1,0 @@
-{"datetime": "2023-04-23T15:41:01.858232Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
-{"datetime": "2023-04-23T15:41:01.883846Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
-{"datetime": "2023-04-23T15:41:21.460507Z", "matchtime": 18.68800000002284, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
-{"datetime": "2023-04-23T15:41:22.228449Z", "matchtime": 19.42400000002374, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
-{"datetime": "2023-04-23T15:41:35.227634Z", "matchtime": 31.872000000038952, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
-{"datetime": "2023-04-23T15:41:57.617704Z", "matchtime": 53.12000000006492, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
